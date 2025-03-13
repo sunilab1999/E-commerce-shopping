@@ -14,11 +14,12 @@ const Header = () => {
                 <FaInstagram className='h-6 w-6  bg-gray-200 rounded-l-md p[6px] text-[14px] cursor-pointer hover:bg-[#ff6b6b] hover:text-white' />
                 <FaTwitter className='h-6 w-6  bg-gray-200 rounded-l-md p[6px] text-[14px] cursor-pointer hover:bg-[#ff6b6b] hover:text-white' />
                 <CiLinkedin className='h-6 w-6  bg-gray-200 rounded-l-md p[6px] text-[14px] cursor-pointer hover:bg-[#ff6b6b] hover:text-white' />
-                <b className='text-[#ff6b6b] ml-[400px]'>FREE SHIPPINGTHIS </b><p>WEEK ORDER OVER $55</p>
+                <b className='text-[#ff6b6b] ml-[400px]'>FREE SHIPPING THIS </b><p>WEEK ORDER OVER $55</p>
                 <div className='flex gap-2 ml-[350px]'>
                     <select>
                         <option>English</option>
                         <option>Hindi</option>
+                        <option>Kannada</option>
                     </select>
                     <select>
                         <option>USD $</option>
